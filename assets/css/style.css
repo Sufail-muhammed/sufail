@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg10.jpg") top right no-repeat;
+  background: #040404 url("../img/sufail101.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -29,6 +29,7 @@ body::before {
 @media (min-width: 1024px) {
   body::before {
     background-attachment: fixed;
+   background: #040404 url("../img/bg100.jpg") top right no-repeat;
   }
 }
 
